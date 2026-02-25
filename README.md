@@ -1,6 +1,6 @@
 # AeroDash: A Free and Open-Source Digital Twin Dashboard for City-Level Air Quality Monitoring and Prediction
 
-AeroDash is an end-to-end data pipeline developed to support the research paper **“AeroDash”**, enabling automated ingestion of air quality data from the Urban Observatory, time-series forecasting using Holt–Winters models, and real-time visualization via Google Looker Studio dashboards.
+AeroDash is an end-to-end data pipeline developed to support the research paper **“AeroDash”**, enabling automated ingestion of air quality data from the Urban Observatory, time-series forecasting using Holt–Winters models, and real-time visualisation via Google Looker Studio dashboards.
 
 The system integrates **Urban Observatory (UO) sensor data**, **Google Cloud Platform (GCP)**, **Google Sheets**, and **Looker Studio** to provide daily updates and short-term (72-hour) air quality predictions.
 
