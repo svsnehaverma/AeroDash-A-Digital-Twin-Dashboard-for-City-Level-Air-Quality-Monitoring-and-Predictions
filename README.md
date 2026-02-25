@@ -4,6 +4,10 @@ AeroDash is an end-to-end data pipeline developed to support the research paper 
 
 The system integrates **Urban Observatory (UO) sensor data**, **Google Cloud Platform (GCP)**, **Google Sheets**, and **Looker Studio** to provide daily updates and short-term (72-hour) air quality predictions.
 
+## 🎥 AeroDash Demo Video
+
+[![AeroDash Demo](https://nuvision.ncl.ac.uk/Play/20292)]
+
 ---
 ## 📌 Key Features
 
