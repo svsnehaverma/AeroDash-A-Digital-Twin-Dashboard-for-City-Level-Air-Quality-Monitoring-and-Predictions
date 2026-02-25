@@ -1,4 +1,4 @@
-# AeroDash: Air Quality Data Integration and 72-Hour Forecasting Dashboard
+# AeroDash: A Free and Open-Source Digital Twin Dashboard for City-Level Air Quality Monitoring and Prediction
 
 AeroDash is an end-to-end data pipeline developed to support the research paper **“AeroDash”**, enabling automated ingestion of air quality data from the Urban Observatory, time-series forecasting using Holt–Winters models, and real-time visualization via Google Looker Studio dashboards.
 
@@ -86,8 +86,6 @@ The system integrates **Urban Observatory (UO) sensor data**, **Google Cloud Pla
 - Required for:
 - Google Sheets API access
 - Looker Studio data updates
-- ⚠️ **Do not expose this file publicly**
-- Add to `.gitignore` when sharing the repository
 
 ---
 
@@ -133,9 +131,15 @@ If you use this code or dashboard framework, please cite the **AeroDash paper** 
 
 ## 👤 Author
 
-**Dr. Sneha Verma**  
-Postdoctoral Research Associate  
-Newcastle University  
+Sneha Verma<sup>a,b</sup>, Balendra V. S. Chauhan<sup>b</sup>, Xiang Xie<sup>b</sup>, Philip James<sup>c</sup>, Mohamad Kassem<sup>b</sup>
+
+<sup>a</sup> School of Engineering and Computer Science, University of Sunderland, Sunderland, United Kingdom
+<sup>b</sup> School of Engineering, Stephenson Building, Newcastle University, Newcastle upon Tyne, United Kingdom
+<sup>c</sup> School of Computing, Urban Sciences Building, Newcastle University, Newcastle upon Tyne, United Kingdom
+
+📧 Corresponding author:
+Sneha Verma – sneha.verma@newcastle.ac.uk
+; sneha.verma@sunderland.ac.uk
 
 ---
 ## 📬 Contact
