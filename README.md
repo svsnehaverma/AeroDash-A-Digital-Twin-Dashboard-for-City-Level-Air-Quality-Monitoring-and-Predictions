@@ -6,7 +6,7 @@ The system integrates **Urban Observatory (UO) sensor data**, **Google Cloud Pla
 
 ## 🎥 AeroDash Demo Video
 
-[![AeroDash Demo](https://nuvision.ncl.ac.uk/Play/20292/0.jpg)](https://nuvision.ncl.ac.uk/Play/20292)
+[![AeroDash Demo](https://nuvision.ncl.ac.uk/Play/20292/2.jpg)](https://nuvision.ncl.ac.uk/Play/20292)
 
 ---
 ## 📌 Key Features
