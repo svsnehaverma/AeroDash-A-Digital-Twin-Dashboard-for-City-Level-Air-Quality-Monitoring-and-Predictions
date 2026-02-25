@@ -10,7 +10,7 @@ The system integrates **Urban Observatory (UO) sensor data**, **Google Cloud Pla
 
 ## 🎥 AeroDash System Demonstration
 
-[![AeroDash Demo](thumbnail.png)](4k final without voice and sound (1) (1).mp4)
+[![AeroDash Demo](thumbnail.png)](Aerodash_video.mp4)
 
 ---
 ## 📌 Key Features
