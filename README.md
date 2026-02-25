@@ -139,9 +139,9 @@ Mohamad Kassem<sup>b</sup>
 
 Affiliations
 
-<sup>a</sup> School of Engineering and Computer Science, University of Sunderland, Sunderland, United Kingdom
-<sup>b</sup> School of Engineering, Stephenson Building, Newcastle University, Newcastle upon Tyne, United Kingdom
-<sup>c</sup> School of Computing, Urban Sciences Building, Newcastle University, Newcastle upon Tyne, United Kingdom
+- <sup>a</sup> School of Engineering and Computer Science, University of Sunderland, Sunderland, United Kingdom
+- <sup>b</sup> School of Engineering, Stephenson Building, Newcastle University, Newcastle upon Tyne, United Kingdom
+- <sup>c</sup> School of Computing, Urban Sciences Building, Newcastle University, Newcastle upon Tyne, United Kingdom
 
 Corresponding Author Emails
 
