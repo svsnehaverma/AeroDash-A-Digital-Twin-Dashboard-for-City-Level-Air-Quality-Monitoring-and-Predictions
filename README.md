@@ -118,14 +118,14 @@ The system integrates **Urban Observatory (UO) sensor data**, **Google Cloud Pla
 ---
 ## 🔐 Security Notes
 
-- Never commit `.json` service account keys to public repositories
-- Use environment variables or secret managers where possible
-- Restrict Google Sheets and API permissions to minimum required scope
+- We didn't commit `.json` service account keys to public repositories
+- Do not use environment variables or secret managers where possible
+- We have restricted Google Sheets and API permissions to the minimum required scope
 
 ---
 ## 📄 Citation
 
-If you use this code or dashboard framework, please cite the **AeroDash paper** accordingly.
+If you use this code or dashboard framework, please cite the **AeroDash paper**.
 
 ---
 
@@ -138,8 +138,7 @@ Sneha Verma<sup>a,b</sup>, Balendra V. S. Chauhan<sup>b</sup>, Xiang Xie<sup>b</
 <sup>c</sup> School of Computing, Urban Sciences Building, Newcastle University, Newcastle upon Tyne, United Kingdom
 
 📧 Corresponding author:
-Sneha Verma – sneha.verma@newcastle.ac.uk
-; sneha.verma@sunderland.ac.uk
+Sneha Verma – sneha.verma@newcastle.ac.uk; sneha.verma@sunderland.ac.uk
 
 ---
 ## 📬 Contact
