@@ -143,9 +143,6 @@ Affiliations
 - <sup>b</sup> School of Engineering, Stephenson Building, Newcastle University, Newcastle upon Tyne, United Kingdom
 - <sup>c</sup> School of Computing, Urban Sciences Building, Newcastle University, Newcastle upon Tyne, United Kingdom
 
-Corresponding Author Emails
-
-sneha.verma@newcastle.ac.uk; sneha.verma@sunderland.ac.uk
 
 📧 Corresponding author:
 Sneha Verma – sneha.verma@newcastle.ac.uk; sneha.verma@sunderland.ac.uk
