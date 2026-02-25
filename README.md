@@ -131,11 +131,21 @@ If you use this code or dashboard framework, please cite the **AeroDash paper**.
 
 ## 👤 Author
 
-Sneha Verma<sup>a,b</sup>, Balendra V. S. Chauhan<sup>b</sup>, Xiang Xie<sup>b</sup>, Philip James<sup>c</sup>, Mohamad Kassem<sup>b</sup>
+Sneha Verma<sup>a,b</sup>
+Balendra V. S. Chauhan<sup>b</sup>
+Xiang Xie<sup>b</sup>
+Philip James<sup>c</sup>
+Mohamad Kassem<sup>b</sup>
+
+Affiliations
 
 <sup>a</sup> School of Engineering and Computer Science, University of Sunderland, Sunderland, United Kingdom
 <sup>b</sup> School of Engineering, Stephenson Building, Newcastle University, Newcastle upon Tyne, United Kingdom
 <sup>c</sup> School of Computing, Urban Sciences Building, Newcastle University, Newcastle upon Tyne, United Kingdom
+
+Corresponding Author Emails
+
+sneha.verma@newcastle.ac.uk; sneha.verma@sunderland.ac.uk
 
 📧 Corresponding author:
 Sneha Verma – sneha.verma@newcastle.ac.uk; sneha.verma@sunderland.ac.uk
