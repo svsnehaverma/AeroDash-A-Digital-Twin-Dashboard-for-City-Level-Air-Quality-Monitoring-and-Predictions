@@ -1,0 +1,5 @@
+Model,Average MAPE by Sensor (%)
+Holt-Winters,17.602
+Linear Regression,407.558
+XGBoost,19.748
+LSTM,8.885
